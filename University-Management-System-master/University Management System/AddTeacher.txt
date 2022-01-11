@@ -1,0 +1,1 @@
+insert into teacher values('Syeda','Maria','19','22-08-2001','A-94, Block, ','0123456789','abcdefghi@gmail.com','','','','BA','1013151','Computer Science')

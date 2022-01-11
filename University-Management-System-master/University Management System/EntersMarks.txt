@@ -1,0 +1,1 @@
+insert into subject values('1','Urdu','Pst','Islamiat','Progarmming','')insert into marks values('1','56','45','69','52','')
